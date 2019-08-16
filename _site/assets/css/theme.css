@@ -1,6 +1,7 @@
 body {
+  opacity: 0.8;
   color: #dddddd;
-  background: #292929 url(pics/background/random-grey-variations.png); }
+  background: #292929 url(pics/background/shley-tree-1.png); }
 
 .card {
   background-color: #39393a;
